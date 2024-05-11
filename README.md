@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 📚 Specialized in data collection, data cleaning, data analysis, and data visualization.
 - 💬 Ask me about SQL,Excel,Python,PowerBI
 - 📫 How to reach me: ganeshdalal643@gmail.com
-- 🔗 Connect with me at Linkedin-linkedin.com/in/ganesh-dalal-20b820194
+- 🔗 Connect with me -linkedin.com/in/ganesh-dalal-20b820194
 - ❤️ I love learning new things!
   
